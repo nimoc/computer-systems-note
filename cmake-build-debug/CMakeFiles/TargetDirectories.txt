@@ -1,0 +1,3 @@
+/Users/nimo/go/src/github.com/nimoc/computer-systems-note/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nimo/go/src/github.com/nimoc/computer-systems-note/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nimo/go/src/github.com/nimoc/computer-systems-note/cmake-build-debug/CMakeFiles/computer_systems_note.dir
